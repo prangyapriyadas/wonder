@@ -1,0 +1,35 @@
+Please write the shell scripts for the following questions based on the shell scripting exercise last week:
+
+
+    WAP ask name, program and id number and print it on screen
+
+    WAP to find the sum, average and product of 4 integers entered.
+
+    WAP to add, subtract and multiply 2 given numbers passed as command line arguments.
+
+    WAP to find factorial of a given number.
+
+    WAP to exchange the values of 2 numbers.
+
+    WAP to display the digits which are in odd position in a given 5 digit number.
+
+    WAP to find largest among 3 numbers
+
+    WAP to concatenate 2 strings and find the length of the resultant string
+
+    WAP to check whether a string is palindrome.
+
+    WAP accepts a user-name and reports if user logged in.
+
+    WAP that takes a file-name as input and checks if it is executable, if not make it executable
+
+    WAP to take a string as command line argument and reverse it.
+
+    WAP that prompts user for a starting value and counts down from there.
+
+    Write a script function that determines if an argument passed to it is an integer or a string
+
+    A 'lucky number' is one whose individual digits add upto 7 in successive additions. Eg: 62431 isa lucky no. (6+4+2+3+1 =16, 1+6 =7). Find all lucky numbers between 1000 and 10000
+
+
+    Remember to mail me the solutions in a single file
